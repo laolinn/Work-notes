@@ -108,3 +108,15 @@ window.onload=s;
 &lt;/div&gt;
 
 &lt;/div&gt;
+
+## 浮动
+
+&lt;div style="position:fixed;top:48%;left:1%"&gt;
+
+    &lt;a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=310644227&site=qq&menu=yes"&gt;
+
+        &lt;img border="0" src="http://wpa.qq.com/pa?p=2:178899573:51" alt="点击这里给我发消息" title="点击这里给我发消息"/&gt;&lt;/a&gt;
+
+
+&lt;/div&gt;
+
