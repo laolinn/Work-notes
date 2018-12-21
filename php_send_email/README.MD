@@ -1,4 +1,4 @@
-#PHP发邮件
+PHP发邮件
 
 sendmail.php是主文件
 
